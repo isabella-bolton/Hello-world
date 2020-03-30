@@ -1,3 +1,5 @@
-<h1>Svelte</h1>
+<script>
+let name =""
+</script>
 
-<p>Welcome to coding with Svelte!</p>
+<p>Hello {name} !</p>
